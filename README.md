@@ -1,5 +1,7 @@
 # This contains all the links mentioned in the different chapters of the book
 
+## For the latest developments on AI: https://medium.com/aiguys
+
 ## Chapter 1 Links
 [1] BackPropagation: https://www.nature.com/articles/323533a0
 
