@@ -1,2 +1,2 @@
-# Mastering-AI-with-Python-and-Neural-Networks
-Mastering AI with Python and Neural Networks, published by Orange, AVA™
+# Ultimate Neural Network Programming with Python
+Ultimate Neural Network Programming with Python, published by Orange, AVA™
