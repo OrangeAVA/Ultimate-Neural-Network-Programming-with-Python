@@ -1,7 +1,6 @@
 # This contains all the links mentioned in the different chapters of the book
 
-# For the latest developments on AI: 
-## https://medium.com/aiguys
+# For the latest developments on AI: https://medium.com/aiguys
 
 ## Chapter 1 Links
 [1] BackPropagation: https://www.nature.com/articles/323533a0
@@ -94,5 +93,4 @@
 [35] Ian Goodfellow on GANs: https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=656s&ab_channel=LexFridman
 
 
-## For the latest developments on AI: 
-### https://medium.com/aiguys
+### For the latest developments on AI: https://medium.com/aiguys
