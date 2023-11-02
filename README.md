@@ -37,7 +37,7 @@
 ## Chapter 4 Links
 [14] NN as Universal Approximators: https://ieeexplore.ieee.org/document/256500
 
-[15] Paper on Neural Network pruning: https://arxiv.org/pdf/2205.06175.pdf
+[15] Paper on Neural Network pruning: https://arxiv.org/abs/2103.06460
 
 [16] GATO: A generalised agent paper: https://arxiv.org/pdf/2205.06175.pdf
 
