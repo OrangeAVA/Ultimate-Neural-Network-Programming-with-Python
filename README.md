@@ -4,8 +4,8 @@
 
 ## 
 
-### Buy International: https://www.amazon.com/dp/B0CMQ9LGFW/ref=sr_1_13?crid=12B3MBLODZT78&keywords=Neural+network+python&qid=1699290554&s=books&sprefix=neural+network+python%2Cstripbooks-intl-ship%2C148&sr=1-13
-### Buy India version: https://www.amazon.in/dp/B0CMQ9LGFW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1699271959&sr=8-3
+#### Buy International: https://www.amazon.com/dp/B0CMQ9LGFW/ref=sr_1_13?crid=12B3MBLODZT78&keywords=Neural+network+python&qid=1699290554&s=books&sprefix=neural+network+python%2Cstripbooks-intl-ship%2C148&sr=1-13
+#### Buy India version: https://www.amazon.in/dp/B0CMQ9LGFW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1699271959&sr=8-3
 
 ##
 
