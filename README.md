@@ -56,9 +56,9 @@
 
 [19] Optimization of Logistic regression: https://medium.com/aiguys/beautiful-maths-behind-logistic-regression-optimization-6cefd3ec1c91 
 
-ERRORS: 
+####ERRORS: 
 
-Page 134: Let’s talk about the preceding optimization problem; it’s an optimization problem
+**Page 134:** Let’s talk about the preceding optimization problem; it’s an optimization problem
 where we are trying to minimize (weights and biases) such that alphas are maximized.
 It’s a MIN(MAX) problem where we are trying to minimize the product of
 W(transpose) and W such that Yk [WTXk + b] >= 1.
