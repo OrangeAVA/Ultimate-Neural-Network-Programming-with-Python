@@ -56,6 +56,15 @@
 
 [19] Optimization of Logistic regression: https://medium.com/aiguys/beautiful-maths-behind-logistic-regression-optimization-6cefd3ec1c91 
 
+ERRORS: 
+
+Page 134: Let’s talk about the preceding optimization problem; it’s an optimization problem
+where we are trying to minimize (weights and biases) such that alphas are maximized.
+It’s a MIN(MAX) problem where we are trying to minimize the product of
+W(transpose) and W such that Yk [WTXk + b] >= 1.
+
+Also, all the a's in the equation are α in the SVM section.
+
 
 ## Chapter 6 Links
 [20] TensorFlow NN playgorund: https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.19712&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
