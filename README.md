@@ -61,7 +61,7 @@
 **Page 134:** Let’s talk about the preceding optimization problem; it’s an optimization problem
 where we are trying to minimize (weights and biases) such that alphas are maximized.
 It’s a MIN(MAX) problem where we are trying to minimize the product of
-W(transpose) and W such that Yk [WTXk + b] >= 1.
+W(transpose) and W such that Y_k [WTX_k + b] >= 1.
 
 Also, all the a's in the equation are α in the SVM section.
 
