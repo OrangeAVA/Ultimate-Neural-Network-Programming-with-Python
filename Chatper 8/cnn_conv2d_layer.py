@@ -61,6 +61,7 @@ import numpy as np
 
 
 class Conv2D:
+    "Conv2D class"
     def __init__(self, num_filters, filter_size):
         self.num_filters = num_filters
         self.filter_size = filter_size
