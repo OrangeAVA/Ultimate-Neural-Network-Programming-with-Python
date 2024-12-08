@@ -2,6 +2,8 @@
 
 ## For the latest AI developments head to: https://medium.com/aiguys
 
+## And follow me on Twitter: https://x.com/RealAIGuys
+
 ## 
 
 #### Buy International: https://www.amazon.com/dp/B0CMQ9LGFW/ref=sr_1_13?crid=12B3MBLODZT78&keywords=Neural+network+python&qid=1699290554&s=books&sprefix=neural+network+python%2Cstripbooks-intl-ship%2C148&sr=1-13
