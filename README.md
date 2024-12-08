@@ -1,6 +1,6 @@
 # This contains all the links mentioned in the different chapters of the book
 
-## For the latest developments on AI: https://medium.com/aiguys
+## For the latest AI developments head to: https://medium.com/aiguys
 
 ## 
 
