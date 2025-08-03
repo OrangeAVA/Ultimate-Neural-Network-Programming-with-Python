@@ -89,7 +89,7 @@ class Attention_UNet:
     """
 
 
-    def __init__(self, config_path="D:/mine/AISummer/project2/configs/config.json"): # Give path to your config file
+    def __init__(self, config_path="configs/config.json"): # Give path to your config file
         self.output_channels = 3
         self.config_file = config_path
 

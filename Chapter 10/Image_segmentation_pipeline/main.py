@@ -10,9 +10,9 @@ from evaluation.eval import Evaluator
 
 def main():
     # Change these paths and set your directories here, also change paths in other files as well
-    input_dir = "D:/mine/AISummer/project2/data/images/images"
-    target_dir = "D:/mine/AISummer/project2/data/annotations/annotations/trimaps"
-    config_file = "D:/mine/AISummer/project2/configs/config.json"
+    input_dir = "images"
+    target_dir = "annotations/trimaps"
+    config_file = "configs/config.json"
 
 
     trainer = AttentionUNetTrainer(input_dir, target_dir, config_file)
