@@ -11,7 +11,7 @@ from utils.losses import CustomLossAndMetrics
 
 
 class AttentionUNetTrainer:
-    def __init__(self, input_dir: str, target_dir: str, config_path: str = "D:/mine/AISummer/project2/configs/config.json"): # Give path to you config file
+    def __init__(self, input_dir: str, target_dir: str, config_path: str = "configs/config.json"): # Give path to you config file
         """
         AttentionUNetTrainer class to train the Attention UNet model on the Oxford Pets dataset.
 
