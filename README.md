@@ -110,3 +110,4 @@ W(transpose) and W such that Y_k [WTX_k + b] >= 1.
 
 
 ### For the latest developments on AI: https://medium.com/aiguys
+You can also follow more recent developments of the new AI company I'm building at: https://number7ai.com/
